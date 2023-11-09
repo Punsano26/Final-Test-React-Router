@@ -1,0 +1,100 @@
+{
+  "computer": [
+    {
+      "brand": "Acer",
+      "model": "Nitro 5",
+      "price": "30,000",
+      "CPU_type": "Intel i7",
+      "image": "https://source.unsplash.com/random/200x200/?computer",
+      "id": 1
+    },
+    {
+      "brand": "HP",
+      "model": "Pavilion",
+      "price": "35,000",
+      "CPU_type": "AMD Ryzen 5",
+      "image": "https://source.unsplash.com/random/200x200/?computer",
+      "id": 2
+    },
+    {
+      "brand": "Dell",
+      "model": "Inspiron",
+      "price": "40,000",
+      "CPU_type": "Intel i5",
+      "image": "https://source.unsplash.com/random/200x200/?computer",
+      "id": 3
+    },
+    {
+      "brand": "Lenovo",
+      "model": "ThinkPad",
+      "price": "45,000",
+      "CPU_type": "AMD Ryzen 7",
+      "image": "https://source.unsplash.com/random/200x200/?computer",
+      "id": 4
+    },
+    {
+      "brand": "Asus",
+      "model": "ROG",
+      "price": "50,000",
+      "CPU_type": "Intel i7",
+      "image": "https://source.unsplash.com/random/200x200/?computer",
+      "id": 5
+    },
+    {
+      "brand": "Apple",
+      "model": "MacBook Pro",
+      "price": "60,000",
+      "CPU_type": "Apple M1",
+      "image": "https://source.unsplash.com/random/200x200/?computer",
+      "id": 6
+    },
+    {
+      "brand": "MSI",
+      "model": "GS65",
+      "price": "55,000",
+      "CPU_type": "Intel i9",
+      "image": "https://source.unsplash.com/random/200x200/?computer",
+      "id": 7
+    },
+    {
+      "brand": "Sony",
+      "model": "VAIO",
+      "price": "38,000",
+      "CPU_type": "Intel Core",
+      "image": "https://source.unsplash.com/random/200x200/?computer",
+      "id": 8
+    },
+    {
+      "brand": "Toshiba",
+      "model": "Satellite",
+      "price": "32,000",
+      "CPU_type": "Intel Celeron",
+      "image": "https://source.unsplash.com/random/200x200/?computer",
+      "id": 9
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy Book",
+      "price": "48,000",
+      "CPU_type": "Samsung Exynos",
+      "image": "https://source.unsplash.com/random/200x200/?computer",
+      "id": 10
+    },
+    {
+      "brand": "Microsoft",
+      "model": "Surface Laptop",
+      "price": "70,000",
+      "CPU_type": "Intel Core i7",
+      "image": "https://source.unsplash.com/random/200x200/?computer",
+      "id": 11
+    },
+    {
+      "brand": "Tinny Hee",
+      "model": "Tan",
+      "price": "55555.555",
+      "CPU_type": "intel i 200",
+      "image": "https://source.unsplash.com/random/200x200/?computer",
+      "id": 12
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   background-color: rgb(183, 183, 232);
+ 
+}
+.col-lg-12{
+    color: rgb(143, 182, 230);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.card-text h5{
+    color: aquamarine;
+}
