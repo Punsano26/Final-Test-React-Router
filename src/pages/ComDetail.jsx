@@ -27,7 +27,7 @@ const ComDetail = () => {
               <img src={comData.image + "&" + comData.id} alt="Computer" />
               <div className="card-text">
                 <h3>{comData.name} ({comData.id})</h3>
-                <h5>Contack Detail : </h5>
+                <h5 className='contack'>Contack Detail : </h5>
                 <h5>Brand : {comData.brand}</h5>
                 <h5>Model : {comData.model}</h5>
                 <h5>Price : {comData.price}</h5>

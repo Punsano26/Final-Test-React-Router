@@ -91,10 +91,18 @@
     {
       "brand": "Tinny Hee",
       "model": "Tan",
-      "price": "55555.555",
+      "price": "554465.455",
       "CPU_type": "intel i 200",
       "image": "https://source.unsplash.com/random/200x200/?computer",
       "id": 12
+    },
+    {
+      "brand": "HP",
+      "model": "Think",
+      "price": "30,200.98",
+      "CPU_type": "AMD Ryzen 9",
+      "image": "https://source.unsplash.com/random/200x200/?computer",
+      "id": 13
     }
   ]
 }

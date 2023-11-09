@@ -54,7 +54,7 @@ const ComList = () => {
           </div>
           <br />
 
-          <table className="table table-bordered">
+          <table className="table table-bordered table-striped table-dark ">
             <thead className="bg-dark text-white">
               <tr>
                 <td>Id</td>
